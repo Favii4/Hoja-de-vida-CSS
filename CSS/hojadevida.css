@@ -1,0 +1,44 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: url(../Imagenes/fondonaruto.jpg);    /*fondo*/
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: "Segoe UI";
+  color: black;
+}
+
+header{
+  text-align: center;
+  width: 80%;
+  margin: auto;
+}
+
+header h2{
+  color: black;
+}
+
+div{
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+table{
+  margin: 10px auto 40px auto;
+  width: 90%;
+  border-collapse: collapse;
+  padding: 2px;
+  font-size: 20px;
+}
+
+tr, td{
+  border: solid 4px #ffffff;
+  padding: 10px;
+  color: black;
+}
